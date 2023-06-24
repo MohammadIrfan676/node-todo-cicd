@@ -4,4 +4,4 @@ services:
   web:
     image: "mohammadirfan676/node-todo-app:latest"
     ports:
-      - "8080:8080"
+      - "8000:8000"
